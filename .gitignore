@@ -1,0 +1,6 @@
+__pycache__
+.ipynb_checkpoints
+*banbif.parquet
+base_clientes
+*.csv
+logs.log
