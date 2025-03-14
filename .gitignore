@@ -4,3 +4,4 @@ __pycache__
 base_clientes
 *.csv
 logs.log
+mlruns
